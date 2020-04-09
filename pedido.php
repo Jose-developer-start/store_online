@@ -37,7 +37,7 @@
                                         <h3 class="text-center">¿Confirmar el pedido?</h3>
                                         <p>
                                             Para confirmar tu compra debes haber iniciar sesión o introducir tu nombre de usuario
-                                            y contraseña con la cual te registraste en <span class="tittles-pages-logo">Cat Electronics</span>.
+                                            y contraseña con la cual te registraste en <span class="tittles-pages-logo">Tecnology Box</span>.
                                         </p>
                                         <br>
                                       <div class="form-group">
