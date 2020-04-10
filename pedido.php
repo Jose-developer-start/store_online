@@ -14,9 +14,9 @@
             <br><br><br>
             <div class="row">
                 <div class="col-xs-12 col-sm-6">
-                    <img class="img-responsive center-all-contens" src="assets/img/CatElectronics-logo.png" style="opacity: .4">
+                    
                 </div>
-                <div class="col-xs-12 col-sm-6">
+                <div class="col-xs-12 col-sm-12">
                     <div id="form-compra">
                         <form action="process/confirmcompra.php" method="post" role="form" class="FormCatElec" data-form="save">
                             <?php
